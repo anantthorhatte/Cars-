@@ -1,0 +1,32 @@
+.main-container{
+    background-color: black;
+    height: 100%;
+    width: 100%;
+}
+.main-heading{
+    color: red;
+    text-align: center;
+}
+.sub-container{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.card-img{
+    zoom: 0.5;
+    padding: 50px;
+}
+.card-img:hover{
+    zoom: 0.55;
+    transition: 2s;
+}
+.heading{
+    color: white;
+    font-size: xx-large;
+    padding-left: 10px;
+}
+.info-text{
+    font-size: medium;
+    color: white;
+    padding: 100px;
+}
