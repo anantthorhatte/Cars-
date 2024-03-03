@@ -1,2 +1,2 @@
 # Cars Details Website
-![image info](images/bugattichiron.jpeg )
+![image info](images/1. Bugatti Chiron.jpeg)
