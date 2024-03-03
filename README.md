@@ -11,8 +11,8 @@ This Website is to Provide All The Neccesary Information About Your Favorite Car
 
 # screenshots
 ### homepge
-![alt text](/readmess/Screenshot%(78).png)
+![Screenshot (78)](https://github.com/anantthorhatte/Cars-/assets/158489091/90d34e35-2142-48ee-8e4c-666571d66f4e)
 
-### Hope You All Like The Webites
+### Hope You All Like The Website...
 
 
